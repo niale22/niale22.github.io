@@ -1,0 +1,45 @@
+.homes-header {
+    color: pink;
+    text-align: center;
+}
+
+.homes-paragraph {
+    color: red;
+    text-align: center;
+}
+#about-heading {
+    color: blue;
+}
+
+#about-intro {
+    color: green;
+}
+
+#about-hobby {
+    color: purple;
+}
+#name {
+    background-color: lightblue;
+}
+
+#email {
+    background-color: lightgreen;
+}
+
+#subject {
+    background-color: lightcoral;
+}
+
+#message {
+    background-color: lightyellow;
+}
+body {
+    background-color: orange;
+}
+nav {
+    background-color: black;
+}
+
+nav a {
+    color: darkorchid;
+}
